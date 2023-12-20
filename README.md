@@ -1,2 +1,2 @@
 # Tic-Tac-Game
-Run this app in andoind studio console . 
+Run this app in android studio console . 
